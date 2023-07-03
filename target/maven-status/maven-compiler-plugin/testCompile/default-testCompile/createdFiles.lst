@@ -1,0 +1,5 @@
+amazon\common\CommonAction.class
+amazon\objectrepository\TodayDealsLocators.class
+com\amazon\TodaysDealStepDefinition.class
+com\amazon\TestRunner.class
+com\amazon\Hooks.class
